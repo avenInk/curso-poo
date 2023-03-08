@@ -1,7 +1,7 @@
 class Account:
-    def __init__(self, id, name, document, email, password):
-        self.id = int(id)
+    def __init__(self, name, document):
+        self.id = int()
         self.name = str(name)
         self.document = str(document)
-        self.email = str(email)
-        self.password = str(password)
+        self.email = str()
+        self.password = str()
