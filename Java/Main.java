@@ -1,4 +1,4 @@
-class Main{
+public class Main{
     public static void main(String[] args) {
         System.out.println("hola mundo");
         Car car1 = new Car("AEOV040225HQRUSE99", new Account("Victor Armando", "AEOV040225HQRUSE99"));

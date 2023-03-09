@@ -9,3 +9,5 @@ $car->id = '5';
 
 echo $car->id;
 echo $car->driver->name;
+
+?>
